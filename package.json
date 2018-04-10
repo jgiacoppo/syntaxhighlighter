@@ -59,7 +59,6 @@
   "dependencies": {
     "brush-base": "git+https://github.com/jgiacoppo/brush-base.git",
     "domready": "^1.0.5",
-    "jgiacoppo/brush-base": "^4.0.0",
     "opts-parser": "^4.0.0",
     "retabber": "^4.0.0",
     "syntaxhighlighter-html-renderer": "^4.0.0",
