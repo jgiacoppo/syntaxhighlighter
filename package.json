@@ -57,7 +57,7 @@
     "yargs": "^3.30.0"
   },
   "dependencies": {
-    "brush-base": "^4.0.0",
+    "jgiacoppo/brush-base": "^4.0.0",
     "syntaxhighlighter-match": "^4.0.0",
     "syntaxhighlighter-html-renderer": "^4.0.0",
     "syntaxhighlighter-regex": "^4.0.0",
